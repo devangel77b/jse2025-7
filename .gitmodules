@@ -1,0 +1,27 @@
+[submodule "427kkoping-lab4"]
+	path = koping
+	url = git@github.com:devangel77b/427kkoping-lab4.git
+[submodule "afzal"]
+	path = afzal
+	url = git@github.com:devangel77b/427safzal-lab4.git
+[submodule "levine"]
+	path = levine
+	url = git@github.com:devangel77b/427mlevine-lab4.git
+[submodule "yellapragada"]
+	path = yellapragada
+	url = git@github.com:devangel77b/427syellapragada-lab4.git
+[submodule "cardillo"]
+	path = cardillo
+	url = git@github.com:devangel77b/427jcardillo-lab4.git
+[submodule "hallur"]
+	path = hallur
+	url = git@github.com:devangel77b/427ahallur-lab4.git
+[submodule "su"]
+	path = su
+	url = git@github.com:devangel77b/427ksu-lab4.git
+[submodule "sobel"]
+	path = sobel
+	url = git@github.com:devangel77b/427esobel-lab4.git
+[submodule "chung"]
+	path = chung
+	url = git@github.com:devangel77b/427tchung-lab4.git
