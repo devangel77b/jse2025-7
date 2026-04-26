@@ -25,3 +25,9 @@
 [submodule "chung"]
 	path = chung
 	url = git@github.com:devangel77b/427tchung-lab4.git
+[submodule "sharma"]
+	path = sharma
+	url = git@github.com:devangel77b/427isharma-lab4.git
+[submodule "jse-mechanics-template"]
+	path = jse-mechanics-template
+	url = git@github.com:devangel77b/jse-mechanics-template.git
